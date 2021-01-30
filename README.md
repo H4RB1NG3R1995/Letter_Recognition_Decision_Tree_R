@@ -8,7 +8,7 @@ Data:
 
 The file letters_ABPR.csv contains 3116 observations, each of which corresponds to a certain image of one of the four letters A, B, P and R. The images came from 20 different fonts, which were then randomly distorted to produce the final images; each such distorted image is represented as a collection of pixels, each of which is "on" or "off". For each such distorted image, we have available certain statistics of the image in terms of these pixels, as well as which of the four letters the image is. This data comes from the UCI Machine Learning Repository.
 
-This dataset contains the following 17 variables: 
+This dataset contains the following 17 variables and 3116 observations: 
 1. letter = the letter that the image corresponds to (A, B, P or R) 
 2. xbox = the horizontal position of where the smallest box covering the letter shape begins. 
 3. ybox = the vertical position of where the smallest box covering the letter shape begins. 
