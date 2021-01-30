@@ -29,7 +29,7 @@ This dataset contains the following 17 variables:
 
 Both decision tree and random forest model is used for prediction.
 
-Decison tree model results:
+Decision tree model results:
 
 Test Accuracy: 86.68%
 Train Accuracy: 88.34%
